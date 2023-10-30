@@ -14,6 +14,14 @@
 }
 
 .App-link {
-  color: #0995c4;
+  color: #0f9fcf;
   margin-right: 30px;
+}
+
+.Students-link {
+  color: #ffffff;
+}
+
+.Courses-link {
+  color: #ffffff;
 }
